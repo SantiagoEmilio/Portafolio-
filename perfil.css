@@ -1,0 +1,58 @@
+header h1 {
+  font-size: 2.5rem;
+}
+
+.imgp{
+  width: 30rem;
+  height: 30rem;
+  margin: 2rem;
+
+}
+
+.imgp1{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about p{
+  padding: 2rem 0rem;
+}
+
+.inf h1{
+  font-size: 3rem;
+}
+
+.inf p{
+  padding: 20px;
+  font-size: 1.4rem;
+  color: rgb(32, 32, 56);
+
+}
+
+.info{
+  margin: 2rem 0rem;
+
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.8rem;
+}
+.redes{
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0rem;
+}
+
+.lista {
+  font-size: 10px;
+  gap: 5px;
+  list-style-type: none;
+  margin-left: 50px;
+  padding: 0;
+  column-count: 3;
+  color: rgb(23, 20, 72);
+}
+.p{
+  margin-left: 90px;
+}
